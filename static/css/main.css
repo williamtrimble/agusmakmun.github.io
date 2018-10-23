@@ -20,7 +20,7 @@ span.time, span.categories {
   font-size: 11px;
 }
 h1, h2, h3 {
-  color: #696969;
+  color: #DE7A22; /* #696969; */
   font-weight: normal;
 }
 h1 {
@@ -32,7 +32,7 @@ h2, h3 {
 }
 a, a:link, a:active {
   text-decoration: none;
-  color: #3fa757;
+  color: #DE7A22; /* #3fa757; */
 }
 a:hover {
   color: #B3B3B3;
