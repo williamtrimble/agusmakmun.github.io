@@ -1,8 +1,8 @@
-title: An Average GIS Guy
-description: GIS Projects, Maps, and Code
+title: GIS Projects, Maps, and Code
+description: An average GIS guy.
 author: William Trimble
 github: https://github.com/williamtrimble
-about: I am a GIS specialist for Shawnee County, KS.
+about: GIS Analyst - Shawnee County, KS.
 disqus_shortname: williamtrimble
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
@@ -17,18 +17,17 @@ collections:
 
 social:
     - icon: fa-facebook
-      link: "#"
+      link: "https://www.facebook.com/wmjt22"
     - icon: fa-twitter
-      link: "https://twitter.com/agusmakmun6"
+      link: "https://twitter.com/Will_Trimble"
     - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/summonagus"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "www.linkedin.com/in/william-trimble"
+    
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/williamtrimble"
 
 share:
-  twitter_username: agusmakmun6
+  twitter_username: Will_Trimble
   fb_appid: 1749788565247320
 
 urls:
