@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 I am a GIS Analyst at Shawnee County, KS GIS.
+
 Email: william.trimble@snco.us
 
 GIS Work Experience:
