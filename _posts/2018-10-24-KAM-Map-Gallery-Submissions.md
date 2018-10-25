@@ -1,7 +1,7 @@
 ---
 layout: post                                      # (require) default post layout
 title: "2018 KAM Map Gallery Submissions"         # (require) a string title
-date: 2018-10-24                                  # (require) a post date
+date: 2018-10-24 01:00:00                         # (require) a post date
 ---
 
 I submitted two maps to the KAM map gallery at the 33rd Annual conference.
