@@ -1,7 +1,7 @@
 ---
 layout: post                                                    # (require) default post layout
 title: "PDGA Website - Python Webscrape for Team Data"          # (require) a string title
-date: 2018-10-24                                                # (require) a post date
+date: 2018-10-24 15:00:00                                       # (require) a post date
 ---
 Script download: [[Download]](https://github.com/williamtrimble/williamtrimble.github.io/blob/master/_data/PDGA_DataMine.py)
 
